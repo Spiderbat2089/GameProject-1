@@ -1,3 +1,5 @@
+Hello
+
 # 🎮 Untitled Game Project
 This is a community-driven game project from people in [TheCherno](https://www.youtube.com/user/TheChernoProject)'s community Discord server.
 
